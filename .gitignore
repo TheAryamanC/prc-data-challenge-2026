@@ -1,0 +1,22 @@
+# Data and model outputs: rebuilt by python taxi/main.py (about 70 GB)
+taxi/data/
+taxi/models/predictions/
+taxi/models/weights/
+taxi/models/tune/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.hypothesis/
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.zip
